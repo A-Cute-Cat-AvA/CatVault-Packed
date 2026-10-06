@@ -1,0 +1,13 @@
+# 用户数据（绝对不要上传！）
+Password/
+Options.op
+Token.txt
+user_name.name
+*.dat
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
